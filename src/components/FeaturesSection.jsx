@@ -54,7 +54,7 @@ const FeaturesSection = () => {
           </h2>
           <p>
             ¡Aplica para ser <strong>streamer</strong> de{" "}
-            <strong>Escuela RP</strong>!
+            <strong>Boliganga RP</strong>!
           </p>
           <div className="logos-row">
             <img
