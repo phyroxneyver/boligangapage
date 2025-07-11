@@ -9,7 +9,7 @@ El proyecto está desarrollado con **React** y **Vite** para ofrecer una interfa
 
 ## 📌 Enlaces Importantes
 
-- [Repositorio en GitHub](https://github.com/Dark-Code-R/boliganga)
+- [Repositorio en GitHub](https://github.com/phyroxneyver/boligangapage)
 - **Sitio web:** _Próximamente desplegado_
 
 ---
@@ -48,7 +48,7 @@ BOLIGANGA/ ├── public/ │ └── logoboliganga.png # Favicon y recurso
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/Dark-Code-R/boliganga.git
+   git clone https://github.com/phyroxneyver/boligangapage.git
    cd boliganga
 
 
